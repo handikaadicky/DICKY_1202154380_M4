@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DICKY_1202154380_M4.iml" filepath="$PROJECT_DIR$/DICKY_1202154380_M4.iml" />
+      <module fileurl="file://E:\Kampus\Android\Lab\M4 Push\Modul 4\DICKY_1202154380_M4\KhaerulUmam_1202154148_StudyCase4.iml" filepath="E:\Kampus\Android\Lab\M4 Push\Modul 4\DICKY_1202154380_M4\KhaerulUmam_1202154148_StudyCase4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Kampus\Android\Lab\M4 Push\Modul 4\DICKY_1202154380_M4\app\app.iml" filepath="E:\Kampus\Android\Lab\M4 Push\Modul 4\DICKY_1202154380_M4\app\app.iml" />
+    </modules>
+  </component>
+</project>
